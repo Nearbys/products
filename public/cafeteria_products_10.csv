@@ -1,0 +1,11 @@
+title,category,description,quantity,unit,image
+Tea,Hot Drinks,Freshly brewed tea,1,pcs,/products/tea.png
+Fresh Milk Tea,Hot Drinks,Fresh milk tea,1,pcs,/products/fresh-milk-tea.png
+Fresh Milk Coffee,Hot Drinks,Fresh milk coffee,1,pcs,/products/fresh-milk-coffee.png
+Black Coffee,Hot Drinks,Fresh black coffee,1,pcs,/products/black-coffee.png
+Chicken Sandwich - Barota,Sandwiches,Chicken sandwich served with barota,1,pcs,/products/chicken-sandwich-barota.png
+Chicken Sandwich - Kubus,Sandwiches,Chicken sandwich served with kubus,1,pcs,/products/chicken-sandwich-kubus.png
+Avocado Juice,Juices,Fresh avocado juice,1,glass,/products/avocado-juice.png
+Banana Milk Shake,Milkshakes,Fresh banana milk shake,1,glass,/products/banana-milk-shake.png
+Chicken Burger,Burgers,Chicken burger,1,pcs,/products/chicken-burger.png
+Vada,Snacks,Fresh Vada,1,pcs,/products/vadai.png

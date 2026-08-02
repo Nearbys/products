@@ -1,0 +1,11 @@
+title,category,description,quantity,unit,image
+Apple,Fruits,Fresh red apples,1,kg,https://images.example.com/grocery/apple.jpg
+Banana,Fruits,Fresh bananas,1,kg,https://images.example.com/grocery/banana.jpg
+Orange,Fruits,Fresh oranges,1,kg,https://images.example.com/grocery/orange.jpg
+Tomato,Vegetables,Fresh tomatoes,1,kg,https://images.example.com/grocery/tomato.jpg
+Potato,Vegetables,Fresh potatoes,1,kg,https://images.example.com/grocery/potato.jpg
+Onion,Vegetables,Fresh onions,1,kg,https://images.example.com/grocery/onion.jpg
+Milk,Dairy,Fresh full cream milk,1,L,https://images.example.com/grocery/milk.jpg
+Eggs,Dairy,Fresh eggs,12,pcs,https://images.example.com/grocery/eggs.jpg
+Basmati Rice,Rice,Premium basmati rice,1,kg,https://images.example.com/grocery/rice.jpg
+Mineral Water,Beverages,Bottled drinking water,1,L,https://images.example.com/grocery/water.jpg
