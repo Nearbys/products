@@ -1,11 +1,11 @@
-title,category,description,quantity,unit,image
-Karak Tea,Hot Drinks,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790231807/kd3hfzu3usyeef22qf0w.jpg
-Milk Tea,Hot Drinks,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790231877/jyj8l85cfoz7pqq3orj3.jpg
-Black Tea,Hot Drinks,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790231951/yfu0fackzzlblwmldik9.jpg
-Sulaimani Tea,Hot Drinks,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png
-Ginger Tea,Hot Drinks,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png
-Cardamom Tea,Hot Drinks,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png
-Coffee,Hot Drinks,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png
-Black Coffee,Hot Drinks,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png
-Nescafe,Hot Drinks,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png
-Horlicks,Hot Drinks,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png
+title,category,description,price,quantity,unit,image,variant_1_name,variant_2_name,variant_2_price,variant_2_quantity,variant_2_unit,variant_3_name,variant_3_price,variant_3_quantity,variant_3_unit
+Karak Tea,Hot Drinks,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790231807/kd3hfzu3usyeef22qf0w.jpg,,,,,,,,,
+Milk Tea,Hot Drinks,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790231877/jyj8l85cfoz7pqq3orj3.jpg,,,,,,,,,
+Black Tea,Hot Drinks,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790231951/yfu0fackzzlblwmldik9.jpg,,,,,,,,,
+Sulaimani Tea,Hot Drinks,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Ginger Tea,Hot Drinks,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Cardamom Tea,Hot Drinks,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Coffee,Hot Drinks,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Black Coffee,Hot Drinks,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Nescafe,Hot Drinks,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Horlicks,Hot Drinks,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
