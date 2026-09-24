@@ -1,11 +1,70 @@
 title,category,description,price,quantity,unit,image,variant_1_name,variant_2_name,variant_2_price,variant_2_quantity,variant_2_unit,variant_3_name,variant_3_price,variant_3_quantity,variant_3_unit
-Karak Tea,Hot Drinks,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790231807/kd3hfzu3usyeef22qf0w.jpg,,,,,,,,,
-Milk Tea,Hot Drinks,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790231877/jyj8l85cfoz7pqq3orj3.jpg,,,,,,,,,
-Black Tea,Hot Drinks,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790231951/yfu0fackzzlblwmldik9.jpg,,,,,,,,,
+Karak Tea,Hot Drinks,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790240914/jviqwlcyargxemxdvhn3.jpg,,,,,,,,,
+Milk Tea,Hot Drinks,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790240923/fgnulx4qac6o3zjkrrmx.jpg,,,,,,,,,
+Black Tea,Hot Drinks,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
 Sulaimani Tea,Hot Drinks,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
 Ginger Tea,Hot Drinks,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
 Cardamom Tea,Hot Drinks,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
 Coffee,Hot Drinks,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
 Black Coffee,Hot Drinks,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
-Nescafe,Hot Drinks,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+NescafÃ©,Hot Drinks,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
 Horlicks,Hot Drinks,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Pepsi,Cold Drinks,,,250,ml,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,500,ml,,,1.5,L
+Coca-Cola,Cold Drinks,,,250,ml,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,500,ml,,,1.5,L
+7UP,Cold Drinks,,,250,ml,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,500,ml,,,1.5,L
+Sprite,Cold Drinks,,,250,ml,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,500,ml,,,1.5,L
+Mountain Dew,Cold Drinks,,,250,ml,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,500,ml,,,1.5,L
+Mirinda,Cold Drinks,,,250,ml,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,500,ml,,,1.5,L
+Fanta,Cold Drinks,,,250,ml,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,500,ml,,,1.5,L
+Vimto,Cold Drinks,,,250,ml,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,500,ml,,,1.5,L
+Laban,Cold Drinks,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Bottled Water,Cold Drinks,,,500,ml,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Samosa,Snacks,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Chicken Samosa,Snacks,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Parippu Vada,Snacks,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Uzhunnu Vada,Snacks,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Bread Omelette,Snacks,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Mulaku Bajji,Snacks,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Onion Bajji,Snacks,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Chicken Cutlet,Snacks,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Egg Puff,Snacks,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Chicken Puff,Snacks,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Egg Sandwich,Sandwiches,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Omelette Sandwich,Sandwiches,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Chicken Sandwich,Sandwiches,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Chicken Club Sandwich,Sandwiches,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Chicken Tikka Sandwich,Sandwiches,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Beef Sandwich,Sandwiches,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Cheese Sandwich,Sandwiches,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Shawarma Sandwich,Sandwiches,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Porotta,Breakfast,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Egg Porotta,Breakfast,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Chapathi,Breakfast,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Appam,Breakfast,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Idiyappam,Breakfast,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Puttu,Breakfast,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Idli,Breakfast,,,,set,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Masala Dosa,Breakfast,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Gee Roast,Breakfast,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Dosa,Breakfast,,,,set,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+upma,Breakfast,,,,plate,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Chicken Burger,Burgers,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Chicken Cheese Burger,Burgers,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Beef Burger,Burgers,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Beef Cheese Burger,Burgers,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Egg Burger,Burgers,,,1,pcs,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
+Fresh Lime,Juices,,,,Small,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,Small,Medium,,,Medium,Large,,,Large
+Mint Lime,Juices,,,,Small,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,Small,Medium,,,Medium,Large,,,Large
+Orange Juice,Juices,,,,Small,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,Small,Medium,,,Medium,Large,,,Large
+Watermelon Juice,Juices,,,,Small,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,Small,Medium,,,Medium,Large,,,Large
+Pineapple Juice,Juices,,,,Small,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,Small,Medium,,,Medium,Large,,,Large
+Mango Juice,Juices,,,,Small,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,Small,Medium,,,Medium,Large,,,Large
+Avocado Juice,Juices,,,,Small,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,Small,Medium,,,Medium,Large,,,Large
+Mixed Fruit Juice,Juices,,,,Small,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,Small,Medium,,,Medium,Large,,,Large
+Grape Juice,Juices,,,,Small,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,Small,Medium,,,Medium,Large,,,Large
+Strawberry Milkshake,Milkshakes,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,Small,Medium,,,Medium,Large,,,Large
+Mango Milkshake,Milkshakes,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,Small,Medium,,,Medium,Large,,,Large
+Banana Milkshake,Milkshakes,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,Small,Medium,,,Medium,Large,,,Large
+Avocado Milkshake,Milkshakes,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,Small,Medium,,,Medium,Large,,,Large
+Falooda,Desserts,,,,cup,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,Small,Medium,,,Medium,Large,,,Large
+Fruit Salad with Ice Cream,Desserts,,,,plate,https://res.cloudinary.com/gb2xbn6d/image/upload/v1790021798/default_1_mn4pug.png,,,,,,,,,
